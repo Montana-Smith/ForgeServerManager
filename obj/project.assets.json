@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ForgeServerManager\\Forge Server Manager\\Forge Server Manager.csproj",
-      "projectName": "Forge_Server_Manager",
-      "projectPath": "C:\\ForgeServerManager\\Forge Server Manager\\Forge Server Manager.csproj",
+      "projectUniqueName": "C:\\ForgeServerManager\\Forge Server Manager\\ForgeSM.csproj",
+      "projectName": "ForgeSM",
+      "projectPath": "C:\\ForgeServerManager\\Forge Server Manager\\ForgeSM.csproj",
       "packagesPath": "C:\\Users\\Monta\\.nuget\\packages\\",
       "outputPath": "C:\\ForgeServerManager\\Forge Server Manager\\obj\\",
       "projectStyle": "PackageReference",

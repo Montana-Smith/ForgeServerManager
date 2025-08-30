@@ -1,4 +1,4 @@
-using Forge_Server_Manager.Components;
+using ForgeSM.Components;
 
 var builder = WebApplication.CreateBuilder(args);
 

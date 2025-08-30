@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This is a Blazor Server application built with .NET 9 called "Forge Server Manager" - a game server management platform with an expanding roster of supported games. It uses Blazor's Interactive Server Components for a responsive web UI.
+This is a Blazor Server application built with .NET 9 called "ForgeSM" - a game server management platform with an expanding roster of supported games. It uses Blazor's Interactive Server Components for a responsive web UI.
 
 ## Project Structure
 
