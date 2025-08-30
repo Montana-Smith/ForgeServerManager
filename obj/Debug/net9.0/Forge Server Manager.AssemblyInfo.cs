@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Forge_Server_Manager")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c275f770d98137fbdff9658a162c298a56f620c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e831aa93bb95e25a3a050e2f92e02b91b03e337f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Forge_Server_Manager")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Forge_Server_Manager")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
